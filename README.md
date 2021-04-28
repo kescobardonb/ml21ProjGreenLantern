@@ -1,7 +1,9 @@
 # ml21ProjGreenLantern
 # Members
 Acula, John Kenneth Breint C.
+
 Escobar, Karl Diego B.
+
 Lopez, Sofia Angela G.
 
 # Project Arduino: Tic-Tac-Toe Arduino
