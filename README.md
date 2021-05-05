@@ -1,10 +1,11 @@
 # ml21ProjGreenLantern
 # Members
-Acula, John Kenneth Breint C.
 
-Escobar, Karl Diego B.
+Escobar, Karl Diego B. - Team Lead
 
-Lopez, Sofia Angela G.
+Acula, John Kenneth Breint C. - Rapporteur
+
+Lopez, Sofia Angela G. - Researcher
 
 # Project Arduino: Tic-Tac-Toe Arduino
 
