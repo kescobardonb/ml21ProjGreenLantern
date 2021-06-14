@@ -7,14 +7,14 @@ Acula, John Kenneth Breint C. - Rapporteur
 
 Lopez, Sofia Angela G. - Researcher
 
-# Project Arduino: Tic-Tac-Toe Arduino
+# Project Arduino: Pandemic Queue Distancing Alert
 
-Description: A tic tac toe game that automatically resets the game board if the arduino detects it as a draw or if a player wins. It will be handheld/ compact. different set of lights will be used for each player. Numpads or buttons will be used for interacting with the game board.
+Description: 
 
 # Features
-Multicolor (instead of the usual X and O)
+LED
 
-Compact
+HC-SR04 Ultrasonic Sensor
 
 4 x 4 grid (instead of the usual 3x3)
 
