@@ -11,8 +11,14 @@ Lopez, Sofia Angela G. - Researcher
 
 Description: 
 
-# Features
-(here)
+# Feature Lists
+A device that signals people to avoid physical contact at a distance of approximately 6 meters.
+
+When the distance is not followed, warning signals will flash on the screen as a reminder.
+
+The line queue is monitored by an unmanned system.
+
+Due to its demand on the situation, it is applicable and attachable everywhere.
 
 # References
 (here)
