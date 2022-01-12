@@ -33,6 +33,8 @@ G. Eberhardt, “Queue management systems and their potential in the times of so
 Available: https://www.ntsretail.com/queue-management-systems-and-their-potential-times-social-distancing 
 [Accessed January 10, 2022]
 
+A. Parajuli, “Distance Measurement using HC-SR04 Ultrasonic Sensor and Arduino,” February 17, 2020. [Online]. Available:https://theiotprojects.com/distance-measurement-using-hc-sr04-ultrasonic-sensor-and-arduino/?fbclid=IwAR17Jtb-aBgdKhcubMq6A-DSKwh2c1CBizrGwMLq7oB0eKZQTNlgZ3yNQuo#source-codesprogram [Accessed May 23, 2022]
+
 J. Picoult, “Managing The Covid Queue: 5 Ways To Keep Customers Happy In The Age Of Long Lines,” July 9, 2020. [Online].
 Available:https://www.forbes.com/sites/jonpicoult/2020/07/09/managing-the-covid-queue--5-ways-to-keep-customers-happy-in-the-age-of-long-lines/?sh=25f026682979 
 [Accessed January 10, 2022]
